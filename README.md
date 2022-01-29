@@ -15,11 +15,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I currently work as a development coordinator for USE.app(delivery)
-- 🌱 I'm a Javascript developer and I'm currently learning Android with Java and Kotlin, soon I want to learn flutter and native react.
+- 👨🏽‍💻 Open to work.
+- 🌱 I'm a Javascript developer and I'm currently in intensive study with Node, Html and MongoDB.
 - 👯Always looking to evolve and help in what I can🤝;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Curiosity: I like to play basketball and study a lot. I have a degree in Systems Analysis and Development;
+- ⚡️ Curiosity: I like to play basketball and study hard. I am graduated in Systems Development and doing a new organization of Systems for the internet;
 - 📫 How to reach me: codando1@gmail.com;
 
 **Languages and Tools:** 
@@ -29,22 +29,11 @@
     <img width="55%" align="right" alt="Silas Viniciu's github stats" src="https://github-readme-stats.vercel.app/api?username=silasviniciuss&show_icons=true&hide_border=true" />
   </a>
   
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
-<code><img width="10%"
-src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
    <code><img width="10%"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"></code>
-   <code><img width="10%"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/gradle/gradle-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
-  <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/codeigniter/codeigniter-plain-wordmark.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-   <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+   <code><img width="10%" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 </p>
 

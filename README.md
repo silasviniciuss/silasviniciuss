@@ -5,7 +5,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/silasviniciuss)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0073B1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/silas-vinicius-6b0819204/)
-[![Instagram](https://img.shields.io/badge/-Instagram-B13288?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/silas_vinicius/)
+[![Instagram](https://img.shields.io/badge/-Instagram-B13288?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/silas_viniciuss/)
 [![Twitter](https://img.shields.io/badge/-Twitter-4DA6E9?style=flat&logo=Twitter&logoColor=white)
 ](https://twitter.com/SilasVincius8)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-4ADD5A?style=flat&logo=Whatsapp&logoColor=white)

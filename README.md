@@ -16,9 +16,9 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 👨🏽‍💻 Open to work.
-- 🌱 I'm a Java developer and I'm currently in intensive study in Swing and Spring Boot.
+- 🌱 I'm a Full Stack developer and I'm currently in intensive study in Angular and React.
 - 👯Always looking to evolve and help in what I can🤝;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Curiosity: I like to play basketball and study hard. I am graduated in Systems Development and I am doing a new training in Internet Systems;;
-- 📫 How to reach me: codando1@gmail.com;
+- 📫 How to reach me: silasvinicius.dev@gmail.com;
 
